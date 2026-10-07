@@ -3,14 +3,14 @@
   "owner": { "name": "jsommershoff-a11y" },
   "metadata": {
     "description": "Akquise-Skills für die Immobilienwirtschaft: Objekte, Makler und Marktteilnehmer finden, anreichern und bewerten.",
-    "version": "0.1.0"
+    "version": "0.2.1"
   },
   "plugins": [
     {
       "name": "scout",
       "source": "./plugins/scout",
       "description": "/scout:setup, /scout:search, /scout:fetch – Immobilien-Akquise mit Claude Code",
-      "version": "0.1.0",
+      "version": "0.2.1",
       "category": "productivity",
       "keywords": ["immobilien", "akquise", "makler", "real-estate", "off-market", "lead-generation"]
     }
