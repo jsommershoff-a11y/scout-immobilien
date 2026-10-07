@@ -1,0 +1,3 @@
+# Lokale Arbeitsdaten von /scout – enthalten Leads und Kontaktdaten, nie committen
+.scout/
+.DS_Store

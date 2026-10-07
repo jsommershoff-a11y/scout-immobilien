@@ -1,0 +1,8 @@
+{
+  "name": "scout",
+  "version": "0.1.0",
+  "description": "Immobilien-Akquise: Suchprofil anlegen (/scout:setup), Objekte, Makler und Marktteilnehmer finden (/scout:search) und Treffer anreichern und bewerten (/scout:fetch).",
+  "author": { "name": "jsommershoff-a11y" },
+  "license": "MIT",
+  "keywords": ["immobilien", "akquise", "makler", "real-estate"]
+}
