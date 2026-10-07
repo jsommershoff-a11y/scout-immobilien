@@ -368,6 +368,10 @@ scout zeigt, wie das aussieht: Recherche, die sonst Stunden kostet (Objekte, Mak
 | LinkedIn | [Jan Sommershoff](https://www.linkedin.com/in/jan-sommershoff-719787218/) |
 | Instagram | [@dein_automatisierungsberater](https://www.instagram.com/dein_automatisierungsberater/) |
 | WhatsApp | [Nachricht an Jan](https://wa.me/491751127114) |
+| WhatsApp-Kanal | [Dein-Automatisierungsberater folgen](https://whatsapp.com/channel/0029VbCpj7B1yT2EF37yxM2N) |
+| WhatsApp-Community | [Community beitreten](https://chat.whatsapp.com/C5VJySOLVpSKFzjLzFSRYn) |
+
+**Bleib auf dem Laufenden:** Folge dem [WhatsApp-Kanal „Dein-Automatisierungsberater“](https://whatsapp.com/channel/0029VbCpj7B1yT2EF37yxM2N) für Neuigkeiten und tritt der [WhatsApp-Community](https://chat.whatsapp.com/C5VJySOLVpSKFzjLzFSRYn) bei, um dich mit anderen auszutauschen.
 
 Fragen zu scout, Ideen oder Feedback? Schreib Jan über einen der Kanäle oder eröffne ein [Issue](https://github.com/jsommershoff-a11y/scout-immobilien/issues).
 
